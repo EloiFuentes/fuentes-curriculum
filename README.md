@@ -16,3 +16,7 @@ Enginyer informàtic amb més de 5 anys d'experiència en desenvolupament de pro
 
 **Grau en Enginyeria Informàtica**  
 Universitat Politècnica de Catalunya (UPC) – 2015 - 2019
+## Habilitats tècniques
+- Llenguatges: Python, JavaScript, Java
+- Frameworks: Express, React, Django
+- Altres: Git, Docker, Linux, CI/CD

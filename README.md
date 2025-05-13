@@ -12,3 +12,7 @@ Enginyer informàtic amb més de 5 anys d'experiència en desenvolupament de pro
 - Desenvolupament de serveis REST amb Node.js.
 - Integració amb bases de dades MongoDB i PostgreSQL.
 - Coordinació d'equips àgils amb metodologia Scrum.
+## Formació acadèmica
+
+**Grau en Enginyeria Informàtica**  
+Universitat Politècnica de Catalunya (UPC) – 2015 - 2019

@@ -20,3 +20,7 @@ Universitat Politècnica de Catalunya (UPC) – 2015 - 2019
 - Llenguatges: Python, JavaScript, Java
 - Frameworks: Express, React, Django
 - Altres: Git, Docker, Linux, CI/CD
+## Idiomes
+- Català: Nadiu
+- Castellà: Nadiu
+- Anglès: B2

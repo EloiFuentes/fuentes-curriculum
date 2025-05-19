@@ -23,4 +23,7 @@ Universitat Politècnica de Catalunya (UPC) – 2015 - 2019
 ## Idiomes
 - Català: Nadiu
 - Castellà: Nadiu
-- Anglès: B2
+- Anglès: B2-
+
+# FOTO
+![foto](foto2.jpg)
